@@ -1,8 +1,7 @@
 # ✨About Me:
 
 Hi Friends,
-I am Srinidhi Pattala, a Robotics/AI enthusiast who completed a Master of Science in Robotics at Northeastern University, Boston in May 2025. My projects highlight my expertise in Computer Vision, Autonomous Systems, Extended Kalman Filter (EKF) & Sensor Fusion, Image Processing, and Object Detection.
-
+I am Srinidhi Pattala, a Robotics/AI enthusiast who completed a Master of Science in Robotics at Northeastern University, Boston in May 2025. 
 💬 Ask me about: Anything about robots🤖 
 
 <!--
